@@ -10,7 +10,6 @@ html
 * [form](#form)
 * [div](#div)
 * [span](#span)
-* [formatting](#formatting])
 
 ## <a name="html_links">link</a>
 link defines as `<a>`    
