@@ -10,6 +10,7 @@ html
 * [form](#form)
 * [div](#div)
 * [span](#span)
+* [formatting](#formatting])
 
 ## <a name="html_links">link</a>
 link defines as `<a>`    
@@ -29,8 +30,10 @@ link defines as `<a>`
 
 ## <a name="header">title</a>
 from `<h1>` to `<h6>`    
+`<hr/>`
 ## <a name="p">paragraph</a>
  `<p>` 
+ `<br/>`
 
 ## <a name="img">image</a>
 `<img>` 
@@ -148,27 +151,14 @@ week
 * select `<select><option value="1">苹果</option><option value="2">橘子</option></select>`
 
 * button
-  * submit  `<button type="submit">提交</button>` 点击
+  * submit  `<button type="submit">提交</button>` 
   * reset `<button type="reset">重置</button>`
 
 
 ## <a name="div">div</a>
-`<div>`组合文档中的块级元素
+`<div>` as a container of html elements , used together with css
 
 ## <a name="span">span</a>
-`<span>`组合文档中的行内元素
+`<span>` inline element as some text container 
 
-## <a name="comment">注释</a>
-注释由`<!-- 注释内容 -->`来定义
-
-## <a name="more">更多标签</a>
-* `strong` 强调
-* `pre` 预定义
-* `code` 代码
-* `blockquote` 引用
-* `small` 补充说明
-* `i` 图标或改变的语义
-* `dl`
-	* `dt`
-	* `dd`
 
